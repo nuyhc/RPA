@@ -2,3 +2,5 @@
 *.xlsx
 
 *.exe
+
+*.DS_Store
